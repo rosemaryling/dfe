@@ -7,7 +7,7 @@
 <meta property="og:title" content="Employer's guide to offering work experience">
 <meta property="og:url" content="https://www-origin.integration.publishing.service.gov.uk/guidance/employers-guide-to-offering-work-experience">
 <meta property="og:type" content="article">
-<meta property="og:site_name" content="This is not GOV.UK">
+<meta property="og:site_name" content="GOV.UK">
 <meta name="twitter:card" content="summary">
 <meta name="description" content="Information for employers looking for a suitable government work experience programme.">
 <meta name="govuk:publishing-government" content="2015-conservative-government">
@@ -82,7 +82,7 @@
         <div class="header-global">
           <div class="header-logo">
             <a href="https://www-origin.integration.publishing.service.gov.uk" title="Go to the GOV.UK homepage" id="logo" class="content">
-              <img src="https://assets-origin.integration.publishing.service.gov.uk/static/gov.uk_logotype_crown_invert_trans-203e1db49d3eff430d7dc450ce723c1002542fe1d2bce661b6d8571f14c1043c.png" width="36" height="32" alt=""> GOV.UK
+              <img src="https://assets-origin.integration.publishing.service.gov.uk/static/gov.uk_logotype_crown_invert_trans-203e1db49d3eff430d7dc450ce723c1002542fe1d2bce661b6d8571f14c1043c.png" width="36" height="32" alt="">This is not GOV.UK
             </a>
           </div>
             <a href="#search" class="search-toggle js-header-toggle">Search</a>
